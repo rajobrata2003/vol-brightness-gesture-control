@@ -15,3 +15,6 @@ This repository contains a project that utilizes Mediapipe and OpenCV to track h
 - Run the VolBrightnessHandControl.py
 - Press v to change volume using fingers
 - Press b to change brightness using fingers
+
+
+![ezgif com-video-to-gif](https://github.com/rajobrata2003/vol-brightness-gesture-control/assets/35872390/6492454b-944f-46ab-a9f4-1c8de87aeadd)
