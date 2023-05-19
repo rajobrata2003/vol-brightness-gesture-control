@@ -10,7 +10,7 @@ This repository contains a project that utilizes Mediapipe and OpenCV to track h
 - Real-time feedback: The program displays visual feedback on the screen, indicating the recognized gestures and the current volume or brightness level.
 
 ## How to use
-= Clone this directory
+- Clone this directory
 - Install requirements
 - Run the code
 - Press v to change volume using fingers
