@@ -12,6 +12,6 @@ This repository contains a project that utilizes Mediapipe and OpenCV to track h
 ## How to use
 - Clone this directory
 - Install requirements
-- Run the code
+- Run the VolBrightnessHandControl.py
 - Press v to change volume using fingers
 - Press b to change brightness using fingers
